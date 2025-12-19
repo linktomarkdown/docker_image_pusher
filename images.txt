@@ -1,1 +1,1 @@
-bitnami/etcd:3.6.7
+quay.io/coreos/etcd:latest
