@@ -1,1 +1,1 @@
-quay.io/coreos/etcd:3.6.7
+quay.io/etcd-io/etcd:v3.6.7
